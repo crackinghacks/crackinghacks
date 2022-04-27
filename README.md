@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @crackinghacks
+- 👀 I’m interested in Cracking
+- 🌱 I’m currently learning C++
+- 💞️ I’m looking to collaborate on a cracking pack.
